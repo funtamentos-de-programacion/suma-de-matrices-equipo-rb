@@ -1,5 +1,5 @@
 #include <stdio.h>
-#define TAM 1000
+#define TAM [1000]
 int main(){
 
     int m1,n1,m2,n2,j,i;
